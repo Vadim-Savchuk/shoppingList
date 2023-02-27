@@ -1,0 +1,10 @@
+.add-item-button {
+    font-size: 22px;
+    padding: 0px 20px;
+    background-color: white;
+    border-left: 2px solid black;
+}
+
+.add-item-button:hover {
+    background-color: #dbbdbd;
+}
